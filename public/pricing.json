@@ -1,0 +1,46 @@
+[
+  {
+    "id": "001",
+    "pricePlan": "Free",
+    "price": "",
+    "timing": "Forever",
+    "features1": "Plan Feature First",
+    "features2": "Plan Feature Second",
+    "features3": "Plan Feature",
+    "features4": "Plan Feature Fourth",
+    "features5": "+ Previous Plan"
+  },
+  {
+    "id": "002",
+    "pricePlan": "Starter",
+    "price": "10",
+    "timing": "Per Month",
+    "features1": "Plan Feature First",
+    "features2": "Plan Feature Second",
+    "features3": "Plan Feature",
+    "features4": "Plan Feature Fourth",
+    "features5": "+ Previous Plan"
+  },
+  {
+    "id": "003",
+    "pricePlan": "FBasic",
+    "price": "25",
+    "timing": "Per Month",
+    "features1": "Plan Feature First",
+    "features2": "Plan Feature Second",
+    "features3": "Plan Feature",
+    "features4": "Plan Feature Fourth",
+    "features5": "+ Previous Plan"
+  },
+  {
+    "id": "004",
+    "pricePlan": "Pro",
+    "price": "45",
+    "timing": "Per Month",
+    "features1": "Plan Feature First",
+    "features2": "Plan Feature Second",
+    "features3": "Plan Feature",
+    "features4": "Plan Feature Fourth",
+    "features5": "+ Previous Plan"
+  }
+]
