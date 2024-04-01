@@ -1,6 +1,7 @@
 import { FaDollarSign } from "react-icons/fa";
 import "./PriceCard.css";
 
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
 const PriceCard = ({ tableData }: any) => {
   const {
     pricePlan,
@@ -13,7 +14,7 @@ const PriceCard = ({ tableData }: any) => {
     features5,
   } = tableData;
   return (
-    <div className="border contain">
+    <div className="border contain mt-8">
       <div className="card-top flex justify-center items-center text-center">
         <div>
           <h2 className="text-[29.22px] text-white">{pricePlan}</h2>
@@ -35,7 +36,7 @@ const PriceCard = ({ tableData }: any) => {
         </div>
       </div>
 
-      <div className="bg-white feacture-content flex justify-center items-center">
+      <div className="bg-white flex justify-center items-center">
         <div className="features-sec mt-6 mx-auto">
           <div className="features">
             <p className="sec-1">{features1}</p>
