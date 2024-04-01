@@ -8,7 +8,7 @@ This is a reusable price card. You can add more card to use same function.
 https://www.netlify.com/
 
 **Live Link**
-https://app.netlify.com/sites/ubiquitous-pasca-4ae284/overview
+https://ubiquitous-pasca-4ae284.netlify.app/
 
 **For manually Start**
 step-1: Clone the link
