@@ -1,4 +1,21 @@
-# React + TypeScript + Vite
+Project Name: Table Price Pop up
+
+Overview:
+This is a reusable price card. You can add more card to use same function.
+
+For manully Start;
+step-1: Clone the link
+step-2: npm i (for install all dependency)
+step-3: npm run dev (for localhost open)
+
+Technologies Uses:
+=> React.js + Vite;
+=> TypeScript;
+=> Tailwind Css;
+=> Vanila Css;
+=> React Icon;
+
+<!-- # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
@@ -27,4 +44,4 @@ export default {
 
 - Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
 - Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list -->

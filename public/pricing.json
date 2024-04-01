@@ -23,7 +23,7 @@
   },
   {
     "id": "003",
-    "pricePlan": "FBasic",
+    "pricePlan": "Basic",
     "price": "25",
     "timing": "Per Month",
     "features1": "Plan Feature First",
